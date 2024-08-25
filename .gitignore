@@ -1,0 +1,16 @@
+keys/
+.csv
+test/
+environ/
+birdievenv/
+logs/
+.ipynb_checkpoints
+**/keys
+data/
+**/data
+Birds_Species_Dataset/
+*.csv
+*.jpg
+*.png
+*.h5
+*.keras

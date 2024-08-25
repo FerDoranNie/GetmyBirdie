@@ -1,0 +1,18 @@
+Pillow==10.4.0
+numpy==1.26.4
+matplotlib==3.8.0
+pandas==2.1.1
+seaborn==0.12.2
+scikit-learn==1.3.0
+opencv-python-headless==4.8.0.74
+tensorflow==2.17.0  # Versión estable compatible con muchas instalaciones de Python
+#tensorflow-text==2.17.0
+#tensorflow-models-official==2.17.0
+keras==3.5.0  # Asegurar que la versión de Keras sea compatible con TensorFlow
+keras-preprocessing==1.1.2
+
+#tensorflow==2.17.0
+#tensorflow-text==2.17.0
+#tensorflow-models-official==2.17.0
+#keras==2.13.0
+#keras-preprocessing==1.1.2
